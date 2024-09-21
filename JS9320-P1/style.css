@@ -1,0 +1,14 @@
+.buttons {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+.green-btn {
+    background-color: green;
+    color: white;
+}
+
+.red-btn {
+    background-color: red;
+    color: white;
+}
